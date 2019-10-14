@@ -13,6 +13,7 @@ import utiles.*;
 public class Cliente {
     private Rut rut;
     private String nombre;
+    //private String Algo;
     
     public Cliente(){
         rut=new Rut();
