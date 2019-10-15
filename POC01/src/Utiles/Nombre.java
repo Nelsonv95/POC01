@@ -12,6 +12,7 @@ public class Nombre {
     private String nombres;
     private String paterno;
     private String materno;
+    private String Algo;
     
     public Nombre(){
         this.nombres=null;
